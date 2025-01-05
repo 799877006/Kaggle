@@ -1,5 +1,5 @@
 
-models/
+peft/models/
 *.pt
 *.pth
 *.bin
@@ -14,22 +14,15 @@ __pycache__/
 
  
 *.log
-logs/
-wandb/
-tensorboard/
+
 
 
 dataset/
-data/
+
 *.csv
 *.json
 *.jsonl
 
-*.ipynb
 
 
-
-gemma_pytorch/
-
-gemma/
 
