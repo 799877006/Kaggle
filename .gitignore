@@ -23,6 +23,7 @@ dataset/
 *.json
 *.jsonl
 
+.peft/logs/
 
 
 
